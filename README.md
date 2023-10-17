@@ -1,3 +1,4 @@
+### Hi there 👋
 
 <!--[![@stentechy's Holopin board](https://holopin.me/stentechy)](https://holopin.io/@stentechy)-->
 
@@ -46,20 +47,17 @@
         </tr>
         <tr></tr>
         <tr>
-          <td><a href="" target="_blank">
+          <td><a href="https://twitter.com/_SolomonNwafor" target="_blank">
           <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
           </a></td>
-          <td><a href="" target="_blank">
+          <td><a href="https://www.linkedin.com/in/solomon-chibuzo-nwafor" target="_blank">
           <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
           </a></td>
-          <td><a href="" target="_blank">
+          <td><a href="https://www.facebook.com/Solonso212" target="_blank">
           <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
           </a></td>
-          <td><a href="" target="_blank">
-          <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-          </a></td>
-        </div> 
-        </tr>
+          
+        
   </tbody>
 </table>
 
@@ -81,8 +79,30 @@
 <br/>  
   
 
-
 <br />
 
 ----
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on robot (aerial and wheeled) navigation and manipulator control
+- 🌱 I’m currently learning Meta-Reinforcement learning for robotics applications 
+- 👯 I’m looking to collaborate on exciting robotics projects that push the boundaries of automation and AI.
+- 🤔 I’m looking for help with advancing my knowledge in reinforcement learning and robotics part planning.
+- 💬 Ask me about Robotics Control, Navigation, and Manipulation.
+- 📫 How to reach me: Feel free to email me at solomon.nwafor@unn.edu.ng 
+- 😄 Pronouns: He/Him
+- ⚡ Fun facts: Did you know that one of the earliest known examples of robotics is the Antikythera Mechanism?
+  - It is also known as the world's first analog computer and was created in ancient Greece.
+  - Today, machines are capable of dealing with their environment and making decisions just like humans!
+  - It's fascinating to see how robotics has evolved since then.⚙️🧰💻
+</div>  
+  
+</div>
+
+<br/>  
+  
+
+<br />
+
+----
