@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on exciting robotics projects that push the boundaries of automation and AI.
 - 🤔 I appreciate any help in advancing my knowledge in reinforcement learning and robotics path planning.
 - 💬 Ask me about Robotics Control, Navigation, and Manipulation.
-- 📫 How to reach me: Feel free to email me at solomon.nwafor@unn.edu.ng 
+- 📫 How to reach me: feel free to email me at solomon.nwafor@unn.edu.ng 
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun facts: Did you know that one of the earliest known examples of robotics is the Antikythera Mechanism?
   - It is also known as the world's first analog computer and was created in ancient Greece.
