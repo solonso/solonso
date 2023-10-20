@@ -67,7 +67,7 @@
 ## Github Stats  
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=stenwire&show_icons=true&theme=tokyonight) -->
 
-[![solonso's GitHub | Languages Over Time](https://stats.quine.sh/solonso/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=solonso)
+[![solonso's GitHub | Stats](https://stats.quine.sh/solonso/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=solonso)
 <br/>
 
 <div align="center">
