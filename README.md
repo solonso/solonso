@@ -26,31 +26,28 @@
   <tr>
     <td valign="top" width="33%">
 
-      ###What I work on
+      What I work on
 
       • Mobile robot navigation and mapping  
       • EKF/ICP-based SLAM and state estimation  
       • Task-priority control for manipulators  
       • Planning with Dubins constraints  
 
-      <h3>Current focus</h3>
+      Current focus
 
       • Reliable autonomy for field robots  
       • Integration of perception, planning, and control  
       • RGB-D point-cloud ICP in EKF pipelines  
       • Mobile manipulation on Turtlebot + SwiftPro  
 
-    </td>
-    <td valign="top" width="34%">
 
-      <h3>Selected work</h3>
+      Selected work
 
       • <a href="https://github.com/solonso" target="_blank">Pose-Based EKF SLAM (ROS1)</a>  
       • Task-priority control with inequality constraints  
       • Next-Best-View exploration with Dubins planner  
       • iToBoS lesion detection (1st place Kaggle)  
 
-    </td>
   </tr>
 </table>
 
