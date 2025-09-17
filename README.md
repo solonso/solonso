@@ -24,33 +24,30 @@
 <!-- ===== At-a-glance cards ===== -->
 <table>
   <tr>
-    <!-- Left column: text -->
-    <td valign="top" width="55%">
+    <td valign="top" width="80%">
 
-      <h3>What I work on</h3>
+      What I work on
+
       • Mobile robot navigation and mapping  
       • EKF/ICP-based SLAM and state estimation  
       • Task-priority control for manipulators  
       • Planning with Dubins constraints  
 
-      <h3>Current focus</h3>
+      Current focus
+
       • Reliable autonomy for field robots  
       • Integration of perception, planning, and control  
       • RGB-D point-cloud ICP in EKF pipelines  
       • Mobile manipulation on Turtlebot + SwiftPro  
 
-      <h3>Selected work</h3>
-      • Pose-Based EKF SLAM  
+
+      Selected work
+
+      • Pose-Based EKF SLAM
       • Task-priority control with inequality constraints  
       • Next-Best-View exploration with Dubins planner  
       • iToBoS lesion detection (1st place Kaggle)  
 
-    </td>
-
-    <!-- Right column: image -->
-    <td width="45%" align="center" valign="middle">
-      <img src="assets/robots.png" alt="Robotics projects" width="100%">
-    </td>
   </tr>
 </table>
 
