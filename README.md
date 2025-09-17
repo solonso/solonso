@@ -26,15 +26,12 @@
   <tr>
     <td valign="top" width="33%">
 
-      <h3>What I work on</h3>
+      ###What I work on
 
       • Mobile robot navigation and mapping  
       • EKF/ICP-based SLAM and state estimation  
       • Task-priority control for manipulators  
       • Planning with Dubins constraints  
-
-    </td>
-    <td valign="top" width="33%">
 
       <h3>Current focus</h3>
 
