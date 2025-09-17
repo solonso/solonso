@@ -43,7 +43,7 @@
 
       Selected work
 
-      • <a href="https://github.com/solonso" target="_blank">Pose-Based EKF SLAM (ROS1)</a>  
+      • href="https://github.com/solonso" target="_blank">Pose-Based EKF SLAM (ROS1)
       • Task-priority control with inequality constraints  
       • Next-Best-View exploration with Dubins planner  
       • iToBoS lesion detection (1st place Kaggle)  
