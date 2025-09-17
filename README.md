@@ -83,15 +83,16 @@
 
 ----
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m working on robot (aerial and wheeled) navigation and manipulator control
-- 🌱 I’m learning Meta-Reinforcement learning for robotics applications 
-- 👯 I’m looking to collaborate on exciting robotics projects that push the boundaries of automation and AI.
-- 🤔 I appreciate any help in advancing my knowledge in reinforcement learning and robotics path planning.
-- 💬 Ask me about Robotics Control, Navigation, and Manipulation.
-- 📫 How to reach me: feel free to email me at solomon.nwafor@unn.edu.ng 
-- 😄 Pronouns: He/His/Him
+- 🔭 I work on mobile robot navigation, localization and mapping, and manipulator control.  
+- 🌱 I am building expertise at the intersection of control, perception, and planning in robotics.  
+- 👯 I collaborate on projects that integrate SLAM, path planning, and task-priority control.  
+- 🤔 I am interested in advancing safe and reliable autonomy for field and service robots.  
+- 💬 Ask me about control engineering, SLAM, or mobile manipulation.  
+- 📫 Contact: solomon.nwafor@unn.edu.ng  
+- 😄 Pronouns: He/Him  
+- ⚡ Highlight: 1st place in the iToBoS 2024 Kaggle lesion detection challenge.
 - ⚡ Fun facts: Did you know that one of the earliest known examples of robotics is the Antikythera Mechanism?
   - It is also known as the world's first analog computer and was created in ancient Greece.
   - Today, machines are capable of dealing with their environment and making decisions just like humans!
