@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F916.svg" alt="Robotics Engineer" width="280">
+      <img src="assets/image.png" alt="Robotics Lab Setup - TurtleBot, SwiftPro, and Drone" width="320">
       <br><br>
       <em>Building autonomous systems for the real world</em>
     </td>
