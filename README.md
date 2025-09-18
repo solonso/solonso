@@ -76,4 +76,8 @@
   <img src="https://komarev.com/ghpvc/?username=solonso&style=flat-square" alt="views">
 </p>
 
+<p align="center">
+  <img src="assets/integration.gif" alt="Robotics Integration Demo" width="600">
+</p>
+
 <!-- End hero -->
