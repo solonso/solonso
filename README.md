@@ -27,27 +27,30 @@
     <td width="40%" align="center">
       <img src="assets/image.png" alt="Robotics Lab Setup - TurtleBot, SwiftPro, and Drone" width="320">
       <br><br>
-      <em>Building autonomous systems for the real world</em>
+      <em>Advancing autonomy through robotics, perception, and control</em>
     </td>
     <td width="60%" valign="top">
       
-**🔧 What I work on**
-- Mobile robot navigation and mapping
+**What I work on**  
+- Mobile robot navigation and mapping  
 - EKF/ICP-based SLAM and state estimation  
-- Task-priority control for manipulators
-- Planning with Dubins constraints
+- Task-priority control for manipulators  
+- Planning with Dubins constraints  
+- Medical image analysis for lesion detection and change assessment  
 
-**🎯 Current focus**
-- Reliable autonomy for field robots
-- Integration of perception, planning, and control
-- RGB-D point-cloud ICP in EKF pipelines
-- Mobile manipulation on Turtlebot + SwiftPro
+**Current focus**  
+- Reliable autonomy for field robots  
+- Integration of perception, planning, and control  
+- RGB-D point-cloud ICP in EKF pipelines  
+- Mobile manipulation on Turtlebot + SwiftPro  
+- Longitudinal lesion analysis and ΔE-based color metrics  
 
-**🏆 Selected work**
-- [**Pose-Based EKF SLAM (ROS1)**](https://github.com/solonso)
-- Task-priority control with inequality constraints
-- Next-Best-View exploration with Dubins planner
-- **iToBoS lesion detection (🥇 1st place Kaggle)**
+**Selected work**  
+- Pose-Based EKF SLAM 
+- Task-priority control with inequality constraints  
+- Next-Best-View exploration with Dubins planner  
+- **iToBoS lesion detection (1st place Kaggle)**  
+- Dermoscopic change detection pipeline (internship project)
 
     </td>
   </tr>
