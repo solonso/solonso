@@ -6,7 +6,6 @@
 <p><strong>Robotics and Control Engineer</strong></p>
 <p>Field robotics · SLAM · Mobile manipulation · Planning · Perception</p>
 
-<!-- Action buttons (kept minimal; contact already in sidebar bio) -->
 <p>
   <a href="https://nwaforsolomon.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="portfolio">
@@ -22,32 +21,38 @@
 </div>
 
 <!-- ===== At-a-glance cards ===== -->
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="80%">
+    <td valign="top" width="58%">
+      <div align="left">
+        <h3>What I work on</h3>
+        <ul>
+          <li>Mobile robot navigation and mapping</li>
+          <li>EKF/ICP-based SLAM and state estimation</li>
+          <li>Task-priority control for manipulators</li>
+          <li>Planning with Dubins constraints</li>
+        </ul>
 
-      What I work on
+        <h3>Current focus</h3>
+        <ul>
+          <li>Reliable autonomy for field robots</li>
+          <li>Integration of perception, planning, and control</li>
+          <li>RGB-D point-cloud ICP in EKF pipelines</li>
+          <li>Mobile manipulation on Turtlebot + SwiftPro</li>
+        </ul>
 
-      • Mobile robot navigation and mapping  
-      • EKF/ICP-based SLAM and state estimation  
-      • Task-priority control for manipulators  
-      • Planning with Dubins constraints  
-
-      Current focus
-
-      • Reliable autonomy for field robots  
-      • Integration of perception, planning, and control  
-      • RGB-D point-cloud ICP in EKF pipelines  
-      • Mobile manipulation on Turtlebot + SwiftPro  
-
-
-      Selected work
-
-      • Pose-Based EKF SLAM
-      • Task-priority control with inequality constraints  
-      • Next-Best-View exploration with Dubins planner  
-      • iToBoS lesion detection (1st place Kaggle)  
-
+        <h3>Selected work</h3>
+        <ul>
+          <li>Pose-Based EKF SLAM</li>
+          <li>Task-priority control with inequality constraints</li>
+          <li>Next-Best-View exploration with a Dubins planner</li>
+          <li>iToBoS lesion detection (1st place Kaggle)</li>
+        </ul>
+      </div>
+    </td>
+    <td valign="middle" width="42%" align="center">
+      <img src="./assets/field-robot.svg" alt="Field robot illustration" width="280" loading="lazy">
+    </td>
   </tr>
 </table>
 
