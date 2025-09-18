@@ -22,32 +22,36 @@
 </div>
 
 <!-- ===== At-a-glance cards ===== -->
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="80%">
-
-      What I work on
-
-      • Mobile robot navigation and mapping  
-      • EKF/ICP-based SLAM and state estimation  
-      • Task-priority control for manipulators  
-      • Planning with Dubins constraints  
-
-      Current focus
-
-      • Reliable autonomy for field robots  
-      • Integration of perception, planning, and control  
-      • RGB-D point-cloud ICP in EKF pipelines  
-      • Mobile manipulation on Turtlebot + SwiftPro  
-
-
-      Selected work
-
-      • Pose-Based EKF SLAM
-      • Task-priority control with inequality constraints  
-      • Next-Best-View exploration with Dubins planner  
-      • iToBoS lesion detection (1st place Kaggle)  
-
+    <td valign="middle" width="42%" align="center">
+      <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F916.svg" alt="Robot illustration (OpenMoji)" width="280" loading="lazy">
+    </td>
+    <td valign="top" width="58%">
+      <div align="left">
+        <h3>What I work on</h3>
+        <ul>
+          <li>Mobile robot navigation and mapping</li>
+          <li>EKF/ICP-based SLAM and state estimation</li>
+          <li>Task-priority control for manipulators</li>
+          <li>Planning with Dubins constraints</li>
+        </ul>
+        <h3>Current focus</h3>
+        <ul>
+          <li>Reliable autonomy for field robots</li>
+          <li>Integration of perception, planning, and control</li>
+          <li>RGB-D point-cloud ICP in EKF pipelines</li>
+          <li>Mobile manipulation on Turtlebot + SwiftPro</li>
+        </ul>
+        <h3>Selected work</h3>
+        <ul>
+          <li><a href="https://github.com/solonso" target="_blank">Pose-Based EKF SLAM (ROS1)</a></li>
+          <li>Task-priority control with inequality constraints</li>
+          <li>Next-Best-View exploration with a Dubins planner</li>
+          <li>iToBoS lesion detection (1st place Kaggle)</li>
+        </ul>
+      </div>
+    </td>
   </tr>
 </table>
 
