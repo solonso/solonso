@@ -67,14 +67,18 @@
   <img src="https://img.shields.io/badge/Matplotlib-0C5A5A?logo=matplotlib&logoColor=white" alt="matplotlib">
 </p>
 
-<!-- ===== Optional stats row (kept subtle) ===== -->
-<p align="center">
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=solonso">
-    <img src="https://stats.quine.sh/solonso/github?theme=dark" alt="GitHub stats via Quine">
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=solonso&style=flat-square" alt="views">
-</p>
+<!-- ===== GitHub Stats ===== -->
+<div align="center">
+  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solonso&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solonso&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solonso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img src="https://komarev.com/ghpvc/?username=solonso&style=flat-square" alt="Profile views">
+
+</div>
 
 <p align="center">
   <img src="assets/integration.gif" alt="Robotics Integration Demo" width="600">
