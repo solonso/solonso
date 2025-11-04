@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="assets/image.png" alt="Robotics Lab Setup - TurtleBot, SwiftPro, and Drone" width="320">
+      <img src="assets/output.gif" alt="Scout + xArm6 Robot Simulation - Gazebo" width="320">
       <br><br>
       <em>Advancing autonomy through robotics, perception, and control</em>
     </td>
