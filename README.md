@@ -81,6 +81,37 @@
 </div>
 
 <p align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <video width="300" autoplay loop muted>
+        <source src="assets/outputss.mp4" type="video/mp4">
+      </video>
+    </td>
+    <td align="center">
+      <video width="300" autoplay loop muted>
+        <source src="assets/output_real0.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video width="300" autoplay loop muted>
+        <source src="assets/output_real1.mp4" type="video/mp4">
+      </video>
+    </td>
+    <td align="center">
+      <video width="300" autoplay loop muted>
+        <source src="assets/output_realsim.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</table>
+
+</p>
+
+<p align="center">
   <img src="assets/integration.gif" alt="Robotics Integration Demo" width="600">
 </p>
 
