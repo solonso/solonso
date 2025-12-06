@@ -85,26 +85,18 @@
 <table>
   <tr>
     <td align="center">
-      <video width="300" autoplay loop muted>
-        <source src="assets/outputss.mp4" type="video/mp4">
-      </video>
+      <img src="assets/outputss.gif" alt="Output Demo 1" width="300">
     </td>
     <td align="center">
-      <video width="300" autoplay loop muted>
-        <source src="assets/output_real0.mp4" type="video/mp4">
-      </video>
+      <img src="assets/output_real0.gif" alt="Real Output 0" width="300">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <video width="300" autoplay loop muted>
-        <source src="assets/output_real1.mp4" type="video/mp4">
-      </video>
+      <img src="assets/output_real1.gif" alt="Real Output 1" width="300">
     </td>
     <td align="center">
-      <video width="300" autoplay loop muted>
-        <source src="assets/output_realsim.mp4" type="video/mp4">
-      </video>
+      <img src="assets/output_realsim.gif" alt="Real Simulation" width="300">
     </td>
   </tr>
 </table>
