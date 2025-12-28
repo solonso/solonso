@@ -105,8 +105,10 @@ Different aspects of the recycling pipeline:
   </table>
 </div>
 
-<p align="center">
-  <img src="assets/integration.gif" alt="Robotics Integration Demo" width="600">
-</p>
+NBV sampling based exploration + Intervention:
+
+<div align="center">
+  <img src="assets/integration.gif" alt="Robotics Integration Demo" width="100%">
+</div>
 
 <!-- End hero -->
