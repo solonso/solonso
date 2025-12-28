@@ -79,29 +79,31 @@
 <img src="https://komarev.com/ghpvc/?username=solonso&style=flat-square" alt="Profile views">
 
 </div>
+Sorting pipeline showing Silvanus successfully detecting, picking, and sorting carrot, apple, and orange into their respective bins:
 
-<p align="center">
+<div align="center">
+  <img src="assets/demo1.gif" alt="Robot Recycling Demonstration" width="100%">
+</div>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/outputss.gif" alt="Output Demo 1" width="300">
-    </td>
-    <td align="center">
-      <img src="assets/output_real0.gif" alt="Real Output 0" width="300">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/output_real1.gif" alt="Real Output 1" width="300">
-    </td>
-    <td align="center">
-      <img src="assets/output_realsim.gif" alt="Real Simulation" width="300">
-    </td>
-  </tr>
-</table>
-
-</p>
+Different aspects of the recycling pipeline:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="assets/output1.gif" alt="Output 1" width="100%"/>
+        <br><strong>Output 1</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="assets/output2.gif" alt="Output 2" width="100%"/>
+        <br><strong>Output 2</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="assets/output3.gif" alt="Output 3" width="100%"/>
+        <br><strong>Output 3</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="assets/integration.gif" alt="Robotics Integration Demo" width="600">
