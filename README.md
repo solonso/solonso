@@ -31,26 +31,12 @@
     </td>
     <td width="60%" valign="top">
 
-**What I work on**  
-- Field robotics autonomy with ROS  
-- SLAM and state estimation (EKF, ICP scan matching)  
-- Mobile manipulation (MoveIt, grasp execution, recovery logic)  
-- Nonholonomic planning (Dubins constraints, sampling-based planners)  
-- Medical imaging for longitudinal lesion assessment  
-
-**Current focus**  
-- End-to-end perception to action loops that keep working under noise and delays  
-- RGB-D 3D pose estimation for grasping, plus point-cloud ICP for correction  
-- EKF pipelines where scan matching provides the observation update  
-- Finite state machines for manipulation with retries and clear failure states  
-- Longitudinal dermoscopy: ΔE-based color metrics and PINN-based lesion growth modeling in iToBoS  
-
-**Selected work**  
-- Fruit recycling robot (ELTE IFRoS Lab): Scout 2.0 + xArm6 pipeline with YOLO RGB-D detection, pose filtering, MoveIt pick and place, ArUco bin IDs, and FSM retry logic  
-- Pose-based EKF SLAM: wheel-encoder prediction with ICP-based relative pose updates, gating, and pose management  
-- Task-priority kinematic control: recursive null-space control with inequality tasks (joint limits, obstacle avoidance)  
-- Next-best-view exploration: sampling-based NBV scoring with Dubins-constrained planning and trajectory execution  
-- Longitudinal dermoscopy pipeline (iToBoS): lesion segmentation and change assessment with ΔE color metrics and temporal growth modeling
+**What I build**  
+- Scout 2.0 + xArm6 fruit recycling robot: YOLO RGB-D detection for [N] classes (orange, carrot, apple, ball), workspace filtering, MoveIt pick and place, ArUco bin mapping (IDs 0–3), FSM with grasp retry up to [R] times and [S] scan steps  
+- Pose-based EKF SLAM: encoder prediction with ICP relative pose updates, Mahalanobis gating with threshold [T], pose cloning and pruning up to [K] poses  
+- Task-priority kinematic control: recursive null-space control with inequality tasks (joint limits, obstacle avoidance) and DLS damping [λ]  
+- Next-best-view exploration: sampling-based NBV scoring with Dubins turning radius [ρ] and path resolution [Δs]  
+- Longitudinal dermoscopy (iToBoS): segmentation + change assessment with ΔE color metrics (CIEDE2000) and temporal growth modeling (PINN, reaction–diffusion)
 
     </td>
   </tr>
