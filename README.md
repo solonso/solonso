@@ -85,6 +85,10 @@ Sorting pipeline showing Silvanus successfully detecting, picking, and sorting c
   <img src="assets/demo1.gif" alt="Robot Recycling Demonstration" width="100%">
 </div>
 
+<div align="center">
+  <img src="assets/IFRoS_Lab21.gif" alt="IFRoS Lab 21" width="100%">
+</div>
+
 Different aspects of the recycling pipeline:
 <div align="center">
   <table>
