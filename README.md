@@ -30,27 +30,27 @@
       <em>Advancing autonomy through robotics, perception, and control</em>
     </td>
     <td width="60%" valign="top">
-      
+
 **What I work on**  
-- Mobile robot navigation and mapping  
-- EKF/ICP-based SLAM and state estimation  
-- Task-priority control for manipulators  
-- Planning with Dubins constraints  
-- Medical image analysis for lesion detection and change assessment  
+- Field robotics autonomy with ROS  
+- SLAM and state estimation (EKF, ICP scan matching)  
+- Mobile manipulation (MoveIt, grasp execution, recovery logic)  
+- Nonholonomic planning (Dubins constraints, sampling-based planners)  
+- Medical imaging for longitudinal lesion assessment  
 
 **Current focus**  
-- Reliable autonomy for field robots  
-- Integration of perception, planning, and control  
-- RGB-D point-cloud ICP in EKF pipelines  
-- Mobile manipulation on Turtlebot + SwiftPro  
-- Longitudinal lesion analysis and ΔE-based color metrics  
+- End-to-end perception to action loops that keep working under noise and delays  
+- RGB-D 3D pose estimation for grasping, plus point-cloud ICP for correction  
+- EKF pipelines where scan matching provides the observation update  
+- Finite state machines for manipulation with retries and clear failure states  
+- Longitudinal dermoscopy: ΔE-based color metrics and PINN-based lesion growth modeling in iToBoS  
 
 **Selected work**  
-- Pose-Based EKF SLAM 
-- Task-priority control with inequality constraints  
-- Next-Best-View exploration with Dubins planner  
-- **iToBoS lesion detection (1st place Kaggle)**  
-- Dermoscopic change detection pipeline (internship project)
+- Fruit recycling robot (ELTE IFRoS Lab): Scout 2.0 + xArm6 pipeline with YOLO RGB-D detection, pose filtering, MoveIt pick and place, ArUco bin IDs, and FSM retry logic  
+- Pose-based EKF SLAM: wheel-encoder prediction with ICP-based relative pose updates, gating, and pose management  
+- Task-priority kinematic control: recursive null-space control with inequality tasks (joint limits, obstacle avoidance)  
+- Next-best-view exploration: sampling-based NBV scoring with Dubins-constrained planning and trajectory execution  
+- Longitudinal dermoscopy pipeline (iToBoS): lesion segmentation and change assessment with ΔE color metrics and temporal growth modeling
 
     </td>
   </tr>
