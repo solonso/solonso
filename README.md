@@ -74,7 +74,7 @@ Sorting pipeline showing Silvanus successfully detecting, picking, and sorting c
 Point Cloud Aggregation Based on GNSS-INS Data and Moving Object Filtering
 
 <div align="center">
-  <img src="assets/Solomon_all_tasks_GNSS_demo.gif" width="100">
+  <img src="assets/Solomon_all_tasks_GNSS_demo.gif" width="1200">
 </div>
 
 NBV sampling based exploration + Intervention:
