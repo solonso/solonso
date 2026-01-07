@@ -86,7 +86,7 @@ NBV sampling based exploration + Intervention:
 Line Keep Assist
 
 <div align="center">
-  <img src="solonso/Lane_Keeping/blob/master/lane.gif" width="1200">
+  <img src="assets/lane.gif" width="1200">
 </div>
 
 <!-- End hero -->
