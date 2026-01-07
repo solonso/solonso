@@ -83,4 +83,10 @@ NBV sampling based exploration + Intervention:
   <img src="assets/integration.gif" alt="Robotics Integration Demo" width="100%">
 </div>
 
+Line Keep Assist
+
+<div align="center">
+  <img src="solonso/Lane_Keeping/blob/master/lane.gif" width="1200">
+</div>
+
 <!-- End hero -->
