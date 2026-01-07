@@ -71,24 +71,10 @@ Sorting pipeline showing Silvanus successfully detecting, picking, and sorting c
   <img src="assets/demo1.gif" alt="Robot Recycling Demonstration" width="100%">
 </div>
 
-Different aspects of the recycling pipeline:
+Point Cloud Aggregation Based on GNSS-INS Data and Moving Object Filtering
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="assets/output1.gif" alt="Output 1" width="100%"/>
-        <br><strong>Output 1</strong>
-      </td>
-      <td align="center" width="33%">
-        <img src="assets/output2.gif" alt="Output 2" width="100%"/>
-        <br><strong>Output 2</strong>
-      </td>
-      <td align="center" width="33%">
-        <img src="assets/output3.gif" alt="Output 3" width="100%"/>
-        <br><strong>Output 3</strong>
-      </td>
-    </tr>
-  </table>
+  <img src="assests/Solomon_all_tasks_GNSS_demo.gif" width="100"/>
 </div>
 
 NBV sampling based exploration + Intervention:
