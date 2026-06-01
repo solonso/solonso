@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solonso&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solonso&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=solonso&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solonso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=solonso&style=flat-square" alt="Profile views">
